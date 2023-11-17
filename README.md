@@ -8,7 +8,7 @@ Digital corner c'est un espace dédié aux tous les personnes qui veut explorer 
 
 # Bootcamp Analyse de données avec Python 🐍 📉
 
-Ce dépôt contient le code de la 1ère édition du Bootcamp **Analyse de Données avec Python** enseigné par **[AFIF IMED EDDINE]([https://twitter.com/kevindegila](https://www.instagram.com/afif.imededdine))** .
+Ce dépôt contient le code de la 1ère édition du Bootcamp **Analyse de Données avec Python** enseigné par **[AFIF IMED EDDINE](https://www.instagram.com/afif.imededdine)** .
 
 Ce bootcamp vous apprend les bases du langage de programmation Python🐍 et l'Analyse de données 📉, de l'import à la visualisation.
 
