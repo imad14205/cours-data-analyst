@@ -1,6 +1,8 @@
 
 ![digital corner](https://github.com/imad14205/cours-data-analyst/assets/32024112/5a98e504-8665-48df-9038-4e81a455cee8)
-# Digital Corner
+# Digital Corner :
+
+Digital corner c'est un espace dédié aux tous les personnes qui veut explorer et développer leurs compétences dans plusieurs domaines , un espace qui offre plus que des simple formation mais un environnement dédié à apprendre et partager
 
 
 # Bootcamp Analyse de données avec Python 🐍 📉
