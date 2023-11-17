@@ -1,3 +1,8 @@
+
+![FB_IMG_1700168801467](https://github.com/imad14205/cours-data-analyst/assets/32024112/c1f9545b-f8a5-4707-a764-53c9929afb24)
+
+
+
 # Bootcamp Analyse de données avec Python 🐍 📉
 
 Ce dépôt contient le code de la 1ère édition du Bootcamp **Analyse de Données avec Python** enseigné par **[AFIF IMED EDDINE]([https://twitter.com/kevindegila](https://www.instagram.com/afif.imededdine))** .
