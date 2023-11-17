@@ -29,8 +29,7 @@ Compétences techniques : Maîtrise des outils d'analyse de données tels que Py
 
 En résumé, le travail d'un data analyste est essentiellement axé sur l'analyse et la manipulation de données pour aider les entreprises à prendre des décisions éclairées et à résoudre des problèmes en se basant sur des preuves empiriques issues des données.
 
-![Uploading 12c04ed96b9b6e02ca1445b241573f68fa129610-800x600.gif…]()
-
+![grab-landing-page](https://cdn.stackoverflow.co/images/jo7n4k8s/production/12c04ed96b9b6e02ca1445b241573f68fa129610-800x600.gif?auto=format)
 
 
 # Bootcamp Analyse de données avec Python 🐍 📉
