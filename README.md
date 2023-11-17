@@ -4,21 +4,22 @@ Ce dépôt contient le code de la 1ère édition du Bootcamp **Analyse de Donné
 
 Ce bootcamp vous apprend les bases du langage de programmation Python🐍 et l'Analyse de données 📉, de l'import à la visualisation.
 
-Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks sur Colab en cliquant ici : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevindegila/data-analyst/). Certains notebooks sont encore en cours d'écriture.
+Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks sur Colab en cliquant ici : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imad14205/cours-data-analyst/). Certains notebooks sont encore en cours d'écriture.
 
-Les vidéos de ce bootcamp seront disponibles gratuitement sur la chaîne YouTube **Kevin Degila** : https://www.youtube.com/c/KevinDegila
 
 ## A la fin de ce bootcamp, vous serez en mesure de :
 * Importer des données sous format csv, sql json, html et autres pour de l'analyse
 * Nettoyer, transformer et explorer les données avec Pandas et Numpy
 * Utiliser des notions statistiques pour répondre à des questions utiles à propos de vos données
 * Appliquer les principes de la Visualisation pour découvrir des informations utiles et faire du storytelling
+* pouvoir suivre et entrer dans le Data science,machine learning et l'intiligence artificielle .
 
 ## 📜 Plan du bootcamp
 ### Module 0:  Introduction à Jupyter notebook 📓
 
-- Coder dans le cloud avec Google Colab  : [Lien Vidéo](https://youtu.be/n8STuQPOKs8)
-- Installer Jupyter notebook en local : [Lien Vidéo](https://youtu.be/QB0I5KGL1CM)
+- Coder dans le cloud avec Google Colab     [https://colab.research.google.com/]
+- Installer Jupyter notebook en local       [https://www.anaconda.com/]
+- Découverte de Kaggle                      [https://www.kaggle.com/]
 
 ### Module 1 : Les bases de Python 🐍
 
@@ -74,7 +75,7 @@ Les vidéos de ce bootcamp seront disponibles gratuitement sur la chaîne YouTub
 ## Apprendre en Communauté 🤝
 
 L'un des avantages du format Bootcamp est d'apprendre des autres apprenants. Nous utiliserons **Discord** pour la communication hors séance live.
-Voici le lien du serveur : https://discord.gg/sHE5exZ . 
+Voici le lien du serveur : [voir aprés avec kader] . 
 N'hésitez pas à poser des questions et à répondre quand vous avez les réponses aux questions posées.
 
 ## Ressources supplémentaires 📚
