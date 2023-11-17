@@ -1,8 +1,5 @@
-<img
-  src="[/path/to/img.jpg](https://github.com/imad14205/cours-data-analyst/assets/32024112/5a98e504-8665-48df-9038-4e81a455cee8)"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+![digital corner](https://github.com/imad14205/cours-data-analyst/assets/32024112/5ee49451-1b04-405c-9fc9-385a2c071184)
 
 # Digital Corner , Qui sommes-nous ?
 
