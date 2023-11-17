@@ -33,7 +33,7 @@ Le métier d'un data analyste consiste à collecter, organiser, analyser et inte
 # Pourquoi python ?
 Python est souvent préféré par les data analystes pour plusieurs raisons :
 
-1- **Facilité d'apprentissage et de lecture **: Sa syntaxe simple et lisible en fait un langage accessible, idéal pour les débutants.
+1- ** Facilité d'apprentissage et de lecture **: Sa syntaxe simple et lisible en fait un langage accessible, idéal pour les débutants.
 
 Bibliothèques spécialisées : Python propose une grande variété de bibliothèques dédiées à l'analyse de données telles que Pandas, NumPy, Matplotlib, Scikit-learn, etc., offrant des outils puissants pour manipuler, analyser et visualiser les données.
 
