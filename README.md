@@ -94,10 +94,6 @@ N'hésitez pas à poser des questions et à répondre quand vous avez les répon
 * UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/datasets.php
 * BuzzFeed News : https://github.com/BuzzFeedNews
 * Banque mondiale : https://data.worldbank.org/
-
-## Soutenir ce bootcamp 🙌
-Vous pouvez soutenir ce bootcamp à travers le partage à des personnes qui en profiteraient et en faisant un don à https://paypal.me/kevindegila .
-Les fonds recueillies permettront d'augmenter la qualité des vidéos qui accompagnent le code.
 	
 ## Me contacter 📩
-Vous pouvez m'envoyer un mail à kayveendegila@gmail.com
+Vous pouvez m'envoyer un mail à imededdine.afif@gmail.com
