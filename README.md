@@ -1,6 +1,6 @@
 
 ![digital corner](https://github.com/imad14205/cours-data-analyst/assets/32024112/5a98e504-8665-48df-9038-4e81a455cee8)
-## Digital Corner
+# Digital Corner
 
 
 # Bootcamp Analyse de données avec Python 🐍 📉
