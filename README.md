@@ -8,6 +8,26 @@ Digital corner c'est un espace dédié aux tous les personnes qui veut explorer 
 
 
 ![3d4fc7058fc9-data-analyst-ynov](https://github.com/imad14205/cours-data-analyst/assets/32024112/3ae61701-3047-4b70-88bc-39527f68d495)
+# c'est quoi le metier d'un data analyste 📉
+Le métier d'un data analyste consiste à collecter, organiser, analyser et interpréter des données afin d'extraire des informations significatives et utiles pour prendre des décisions commerciales ou stratégiques. Voici un aperçu des principales responsabilités et tâches d'un data analyste :
+
+1- Collecte de données : Rassembler des ensembles de données à partir de diverses sources telles que des bases de données, des fichiers CSV, des API, etc.
+
+2- Nettoyage des données : Éliminer les incohérences, les doublons et les valeurs aberrantes des ensembles de données pour assurer leur précision et leur qualité.
+
+3- Analyse des données : Utiliser des outils et des techniques statistiques pour analyser les données et identifier des tendances, des modèles ou des corrélations.
+
+4- Visualisation des données : Créer des visualisations telles que des graphiques, des tableaux de bord et des rapports pour présenter les résultats de manière claire et compréhensible.
+
+5- Interprétation des résultats : Comprendre et interpréter les conclusions tirées des analyses pour fournir des insights exploitables aux décideurs.
+
+6- Collaboration interfonctionnelle : Travailler avec des équipes multidisciplinaires telles que les équipes marketing, les équipes produits, etc., pour répondre aux besoins spécifiques en données.
+
+7- Maintenance et amélioration : Mettre à jour les analyses existantes, développer de nouveaux modèles analytiques et améliorer les processus pour optimiser l'utilisation des données.
+
+Compétences techniques : Maîtrise des outils d'analyse de données tels que Python, R, SQL, Excel, ainsi que des connaissances en statistiques et en visualisation de données.
+
+En résumé, le travail d'un data analyste est essentiellement axé sur l'analyse et la manipulation de données pour aider les entreprises à prendre des décisions éclairées et à résoudre des problèmes en se basant sur des preuves empiriques issues des données.
 
 
 # Bootcamp Analyse de données avec Python 🐍 📉
