@@ -54,7 +54,7 @@ Ce dépôt contient le code de la 1ère édition du Bootcamp **Analyse de Donné
 
 Ce bootcamp vous apprend les bases du langage de programmation Python🐍 et l'Analyse de données 📉, de l'import à la visualisation.
 
-Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks sur Colab en cliquant ici : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imad14205/cours-data-analyst/). Certains notebooks sont encore en cours d'écriture.
+Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks sur Colab en cliquant ici : [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/imad14205/cours-data-analyst). Certains notebooks sont encore en cours d'écriture.
 
 
 ## A la fin de ce bootcamp, vous serez en mesure de :
