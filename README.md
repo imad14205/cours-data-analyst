@@ -11,21 +11,21 @@ Digital corner c'est un espace dédié aux tous les personnes qui veut explorer 
 # C'est quoi le metier d'un data analyste 📉
 Le métier d'un data analyste consiste à collecter, organiser, analyser et interpréter des données afin d'extraire des informations significatives et utiles pour prendre des décisions commerciales ou stratégiques. Voici un aperçu des principales responsabilités et tâches d'un data analyste :
 
-1- Collecte de données : Rassembler des ensembles de données à partir de diverses sources telles que des bases de données, des fichiers CSV, des API, etc.
+1- **Collecte de données** : Rassembler des ensembles de données à partir de diverses sources telles que des bases de données, des fichiers CSV, des API, etc.
 
-2- Nettoyage des données : Éliminer les incohérences, les doublons et les valeurs aberrantes des ensembles de données pour assurer leur précision et leur qualité.
+2- **Nettoyage des données** : Éliminer les incohérences, les doublons et les valeurs aberrantes des ensembles de données pour assurer leur précision et leur qualité.
 
-3- Analyse des données : Utiliser des outils et des techniques statistiques pour analyser les données et identifier des tendances, des modèles ou des corrélations.
+3- **Analyse des données** : Utiliser des outils et des techniques statistiques pour analyser les données et identifier des tendances, des modèles ou des corrélations.
 
-4- Visualisation des données : Créer des visualisations telles que des graphiques, des tableaux de bord et des rapports pour présenter les résultats de manière claire et compréhensible.
+4- **Visualisation des données** : Créer des visualisations telles que des graphiques, des tableaux de bord et des rapports pour présenter les résultats de manière claire et compréhensible.
 
-5- Interprétation des résultats : Comprendre et interpréter les conclusions tirées des analyses pour fournir des insights exploitables aux décideurs.
+5- **Interprétation des résultats** : Comprendre et interpréter les conclusions tirées des analyses pour fournir des insights exploitables aux décideurs.
 
-6- Collaboration interfonctionnelle : Travailler avec des équipes multidisciplinaires telles que les équipes marketing, les équipes produits, etc., pour répondre aux besoins spécifiques en données.
+6- **Collaboration interfonctionnelle** : Travailler avec des équipes multidisciplinaires telles que les équipes marketing, les équipes produits, etc., pour répondre aux besoins spécifiques en données.
 
-7- Maintenance et amélioration : Mettre à jour les analyses existantes, développer de nouveaux modèles analytiques et améliorer les processus pour optimiser l'utilisation des données.
+7- **Maintenance et amélioration** : Mettre à jour les analyses existantes, développer de nouveaux modèles analytiques et améliorer les processus pour optimiser l'utilisation des données.
 
-8- Compétences techniques : Maîtrise des outils d'analyse de données tels que Python, R, SQL, Excel, ainsi que des connaissances en statistiques et en visualisation de données.
+8- **Compétences techniques** : Maîtrise des outils d'analyse de données tels que Python, R, SQL, Excel, ainsi que des connaissances en statistiques et en visualisation de données.
 
 
 
@@ -35,15 +35,15 @@ Python est souvent préféré par les data analystes pour plusieurs raisons :
 
 1- **Facilité d'apprentissage et de lecture** : Sa syntaxe simple et lisible en fait un langage accessible, idéal pour les débutants.
 
-Bibliothèques spécialisées : Python propose une grande variété de bibliothèques dédiées à l'analyse de données telles que Pandas, NumPy, Matplotlib, Scikit-learn, etc., offrant des outils puissants pour manipuler, analyser et visualiser les données.
+2- **Bibliothèques spécialisées** : Python propose une grande variété de bibliothèques dédiées à l'analyse de données telles que Pandas, NumPy, Matplotlib, Scikit-learn, etc., offrant des outils puissants pour manipuler, analyser et visualiser les données.
 
-Polyvalence : Sa capacité à être utilisé dans divers domaines tels que l'analyse de données, l'apprentissage automatique, le traitement du langage naturel (NLP) en fait un choix polyvalent.
+3- **Polyvalence** : Sa capacité à être utilisé dans divers domaines tels que l'analyse de données, l'apprentissage automatique, le traitement du langage naturel (NLP) en fait un choix polyvalent.
 
-Communauté et support actifs : Une grande communauté d'utilisateurs et de développeurs offre un support étendu et de nombreuses ressources en ligne.
+4- **Communauté et support actifs** : Une grande communauté d'utilisateurs et de développeurs offre un support étendu et de nombreuses ressources en ligne.
 
-Intégration : Python s'intègre facilement avec d'autres langages et outils couramment utilisés en analyse de données comme SQL et des plateformes telles que Jupyter Notebook.
+5- **Intégration** : Python s'intègre facilement avec d'autres langages et outils couramment utilisés en analyse de données comme SQL et des plateformes telles que Jupyter Notebook.
 
-Adoption dans l'industrie : De nombreuses entreprises utilisent Python pour l'analyse de données, ce qui en fait une compétence précieuse sur le marché du travail.
+6- **Adoption dans l'industrie** : De nombreuses entreprises utilisent Python pour l'analyse de données, ce qui en fait une compétence précieuse sur le marché du travail.
 
 
 
