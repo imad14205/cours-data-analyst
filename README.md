@@ -119,14 +119,14 @@ Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks
 
 * Chaque module est accompagné d'un ou plusieurs notebooks explicatifs 
 * Chaque sous-module est accompagné d'exercices pour pratiquer les notions apprises
-* On fera plusieurs erreurs lors des séances live ou vidéos afin d'apprendre comment chercher des solutions à chaque erreur
+* On fera plusieurs erreurs lors des séances  afin d'apprendre comment chercher des solutions à chaque erreur
 * Ce bootcamp n'enseignera pas tout ce qu'il faut mais le strict nécéssaire. Les apprenants seront appélés à complèter quelques notions par eux-mêmes grâce aux différentes ressources partagées. Savoir apprendre de nouvelles notions tout seul est une qualité chez un data analyst.
 
 
 ## Apprendre en Communauté 🤝
 
 L'un des avantages du format Bootcamp est d'apprendre des autres apprenants. Nous utiliserons **Discord** pour la communication hors séance live.
-Voici le lien du serveur : [voir aprés avec kader] . 
+Voici le lien du serveur : [(https://discord.gg/YPqTQChv)] . 
 N'hésitez pas à poser des questions et à répondre quand vous avez les réponses aux questions posées.
 
 ## Ressources supplémentaires 📚
