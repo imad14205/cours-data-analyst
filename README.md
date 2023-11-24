@@ -67,7 +67,6 @@ Nous utilisons **Google Colab** dans ce bootcamp. Accédez à tous les notebooks
 ## 📜 Plan du bootcamp
 ### Module 0:  Introduction à Jupyter notebook 📓
 
-- Quiz pour avoir la base de conaissance    [                                  ]
 - Coder dans le cloud avec Google Colab     [https://colab.research.google.com/]
 - Installer Jupyter notebook en local       [https://www.anaconda.com/]
 - Découverte de Kaggle                      [https://www.kaggle.com/]
